@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 def create_an_empty_array 
+=======
+def create_an_empty_array
+>>>>>>> 7d869de942bd1aab0d48e6f9db71714f553cec47
 []
 end
 
